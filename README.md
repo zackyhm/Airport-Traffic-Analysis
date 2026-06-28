@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/Cover_SFAa.png" alt="Airport Traffic Analysis" width="100%">
 </p>
-#  Airport Traffic Analysis & Flight Delay Prediction
+
 
 
 <p align="center">
