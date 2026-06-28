@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/cover.png" alt="Airport Traffic Analysis" width="100%">
+</p>
 #  Airport Traffic Analysis & Flight Delay Prediction
 
 ##  Overview
