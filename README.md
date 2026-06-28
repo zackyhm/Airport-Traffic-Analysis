@@ -47,6 +47,20 @@ This project analyzes airport traffic data from San Francisco International Airp
 
 ---
 
+## 📑 Table of Contents
+
+- Project Overview
+- Objectives
+- Technologies
+- Workflow
+- Dashboard
+- Machine Learning
+- Repository Structure
+- Future Improvements
+- Author
+
+  ---
+  
 ##  Project Structure
 
 ```text
