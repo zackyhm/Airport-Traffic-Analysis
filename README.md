@@ -61,22 +61,22 @@ A predictive model was developed using cleaned airport data to support airport t
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 Raw Data
-⬇️
+
 
 Data Cleaning
-⬇️
+
 
 Exploratory Data Analysis
-⬇️
+
 
 Machine Learning
-⬇️
+
 
 Power BI Dashboard
-⬇️
+
 
 Business Insights
 
