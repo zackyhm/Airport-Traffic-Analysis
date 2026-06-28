@@ -7,6 +7,20 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+</p>
 ##  Overview
 
 This project analyzes airport traffic data from San Francisco International Airport (SFO). The objective is to clean and analyze operational data, build a Machine Learning model, and create an interactive Power BI dashboard to generate meaningful business insights.
